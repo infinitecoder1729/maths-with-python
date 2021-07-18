@@ -6,3 +6,4 @@ Playing with Numbers using Python has unlimited possibilities and a few of them 
 4. Printing Fibonacci Sequence 
 5. Finding Factorial of a Number
 6. Determining wether the number that the User has entered is an Armstrong Number or Not
+7. Performing Prime Factorization of a Number
