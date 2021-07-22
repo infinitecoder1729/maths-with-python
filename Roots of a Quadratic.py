@@ -1,0 +1,10 @@
+a=int(input("Enter the Coefficients of x^2 : "))
+b=int(input("Enter the Coefficient of x : "))
+c=int(input("Enter the constant term : "))
+print("Your Inputs produce this quadratic equation : {}x^2 + {}x +{} = 0 ".format(a,b,c))
+import cmath #To display Complex roots
+d = (b**2) - (4*a*c)  
+sol1 = (-b-cmath.sqrt(d))/(2*a)  
+sol2 = (-b+cmath.sqrt(d))/(2*a)  
+print("Solutions are : ")
+print("x = ",sol1,"\nx = ",sol2) 
