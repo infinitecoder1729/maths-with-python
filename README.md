@@ -8,3 +8,5 @@ Playing with Numbers using Python has unlimited possibilities and a few of them 
 6. Determining wether the number that the User has entered is an Armstrong Number or Not
 7. Performing Prime Factorization of a Number
 8. Finding HCF/GCD of Multiple Numbers
+9. Finding Roots of a Quadratic Equation (Displays Non-Real Roots as Well)
+10. Finding LCM of Multiple Numbers
