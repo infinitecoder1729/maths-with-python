@@ -11,3 +11,4 @@ Playing with Numbers using Python has unlimited possibilities and a few of them 
 9. Finding Roots of a Quadratic Equation (Displays Non-Real Roots as Well)
 10. Finding LCM of Multiple Numbers
 11. Identifying whether the year entered by the user is a Leap Year or not.
+12. Finding the Largest and the Smallest Number from all the numbers provided by the user (Without the use of inbuilt functions) 
