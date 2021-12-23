@@ -1,5 +1,7 @@
-# Maths with Python
-Playing with Numbers using Python has unlimited possibilities and a few of them have been put up here (with more to come) :
+# Maths with Python 
+![Stars](https://img.shields.io/github/stars/infinitecoder1729/maths-with-python)  ![Size](https://img.shields.io/github/repo-size/infinitecoder1729/maths-with-python)  ![Liscence](https://img.shields.io/github/license/infinitecoder1729/maths-with-python)  ![LastCommit](https://img.shields.io/github/last-commit/infinitecoder1729/maths-with-python)
+
+### Playing with Numbers using Python has unlimited possibilities and a few of them have been put up here :
 1. Printing Prime Numbers in the specified Range
 2. Determining wether the number that the User has entered is a Prime Number or Not
 3. Generating Random Numbers between Specified Range
@@ -15,3 +17,5 @@ Playing with Numbers using Python has unlimited possibilities and a few of them 
 13. Determining wether the number that the User has entered is a Disarium Number or Not
 14. Printing Disarium Numbers in the specified Range
 15. Multiplication of Matrices (Without using any pre-built Modules)
+
+### Definately More to come :)
