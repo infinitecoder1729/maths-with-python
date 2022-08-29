@@ -17,5 +17,6 @@
 13. Determining wether the number that the User has entered is a Disarium Number or Not
 14. Printing Disarium Numbers in the specified Range
 15. Multiplication of Matrices (Without using any pre-built Modules)
+16. Finding all possible numbers that can be formed with the digits of a provided number 
 
 ### Definately More to come :)
