@@ -1,5 +1,5 @@
 # Maths with Python 
-![Stars](https://img.shields.io/github/stars/infinitecoder1729/maths-with-python)  ![Size](https://img.shields.io/github/repo-size/infinitecoder1729/maths-with-python)  ![Liscence](https://img.shields.io/github/license/infinitecoder1729/maths-with-python)  ![LastCommit](https://img.shields.io/github/last-commit/infinitecoder1729/maths-with-python) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=infinitecoder1729.maths-with-python)
+![Stars](https://img.shields.io/github/stars/infinitecoder1729/maths-with-python)  ![Size](https://img.shields.io/github/repo-size/infinitecoder1729/maths-with-python)  ![Liscence](https://img.shields.io/github/license/infinitecoder1729/maths-with-python)  ![LastCommit](https://img.shields.io/github/last-commit/infinitecoder1729/maths-with-python) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=infinitecoder1729.maths-with-python) ![files](https://img.shields.io/github/directory-file-count/infinitecoder1729/maths-with-python)
 
 ### Playing with Numbers using Python has unlimited possibilities and a few of them have been put up here :
 1. Printing Prime Numbers in the specified Range
