@@ -18,5 +18,6 @@
 14. Printing Disarium Numbers in the specified Range
 15. Multiplication of Matrices (Without using any pre-built Modules)
 16. Finding all possible numbers that can be formed with the digits of a provided number 
+17. Finding Compund Interest for the given values of Principal, Rate of Interest and Time (in years)
 
 ### Definately More to come :)
