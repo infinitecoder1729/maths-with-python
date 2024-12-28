@@ -19,5 +19,5 @@
 15. Multiplication of Matrices (Without using any pre-built Modules)
 16. Finding all possible numbers that can be formed with the digits of a provided number 
 17. Finding Compund Interest for the given values of Principal, Rate of Interest and Time (in years)
-
+18. Karatsuba's algorithm for multiplication of two integers (Divide and Conquer Approach - Recurssion)
 ### Definately More to come :)
